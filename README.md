@@ -7,6 +7,6 @@ At the begining of the game, you can start a fresh session or simply can continu
 
 ## Main Achievements
 * Practice OOP
-* Read and Write files (e.g., JSON, CSV).
+* Read and Write files (e.g., JSON, CSV, txt).
 
 [Live Preview in Replit](https://replit.com/@egemen48/hangman)
